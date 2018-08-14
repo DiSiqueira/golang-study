@@ -13,7 +13,7 @@ Primitive Types
 | [Compute x mod a power of two][3]                                        |    ✓    |
 | [Test if x is a power of 2][4]                                           |    ✓    |
 | [Swap bits][5]                                                           |    ✓    | 
-| [Reverse bits][6]                                                        |         |
+| [Reverse bits][6]                                                        |    ✓    |
 
 [1]:   ptypes/parity.go
 [2]:   ptypes/rightpropagate.go

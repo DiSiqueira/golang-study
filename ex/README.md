@@ -14,6 +14,10 @@ Primitive Types
 | [Test if x is a power of 2][4]                                           |    ✓    |
 | [Swap bits][5]                                                           |    ✓    | 
 | [Reverse bits][6]                                                        |    ✓    |
+| Reverse bits - Lookup table                                              |         |
+| Reverse bits - Alternative                                               |         |
+| [Find a closest integer with the same weight][7]                         |    ✓    |
+| Find a closest integer with the same weight - Solve as O(1)              |         |
 
 [1]:   ptypes/parity.go
 [2]:   ptypes/rightpropagate.go
@@ -21,3 +25,4 @@ Primitive Types
 [4]:   ptypes/poweroftwo.go
 [5]:   ptypes/swap.go
 [6]:   ptypes/reverse.go
+[7]:   ptypes/closestinteger.go
